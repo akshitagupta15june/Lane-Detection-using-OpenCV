@@ -1,1 +1,14 @@
 # Lane-Detection-using-OpenCV
+
+Traffic  accidents have  become  one  of  the  most  serious  problems  in today's  world. Roads  are  the mostly  chosen  modes  of transportation  and  provide the  finest  connections  among  all modes. Most  frequently  occurring traffic  problem  is the negligence of the drivers and it has become more and more serious with the increase of vehicles. Increasing  the  safety  and  saving  lives  of  human  beings  is  one  of  the  basic  function  of  Intelligent  Transportation System (ITS). Intelligent transportation systems are advanced applications which aim to provide innovative services relating to different modes of transport and traffic management.
+
+This system enables various users to be  better informed and make safer, more coordinated, and smarter use of transport networks.These road accidents can be reduced with the help of road lanes or white markers that assist the driver to identify the  road area  and non-road  area.  A lane is  a  part  of  the road  marked  which  can  be  used  by  a  single  line  of  vehicles  as to control and guide drivers so that the traffic conflicts can be reduced.
+
+Most roads such as highways have at least two lanes, one for traffic in each direction, separated by lane markings. Major highways often have two roadways separated by a median, each with multiple lanes. To detect these road lanes some system must be employed that can help the driver to drive safely.Lane detection is an area of computer vision with applications in autonomous vehicles and driver support systems. 
+
+
+Despite the perceived simplicity  of finding white markings on a simple road, it can be very difficult to determine lane markings on various types of road.These difficulties can be shadows, occlusion by other vehicles, changes in the road surfaces itself, and different types of lane markings. A lane detection system must be able to detect all manner of markings from roadways and filter them to produce a reliable estimate of the vehicle position relative to the lane. To  detect  road  markings  and  road  boundaries  various  methodologies  are  used  like  Hough  Transform,  Canny  edge detection algorithm, bilateral filter. 
+
+
+
+The  lane  detection has  proved  to  be  an  efficient technique  to  prevent  accidents in  Intelligent Transportation Systems.The review  on  lane  detection  has  shown  that  the  most  of  the  researchers has  neglected  the  problem  of  the  fog  and  noise  in images. Thus noise and fog may reduce the accuracy of the existing systems. one can use bilateral filter and dark channel prior  methods  to  improve  the  results  further.  In  near  future  we  will  propose  a  new  technique  which  will  integrate  the performance of lane detection by using bilateral filter.
